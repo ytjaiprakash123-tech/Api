@@ -1,0 +1,5 @@
+[providers]
+providers = ["python"]
+
+[setup]
+pkgs = ["...", "ffmpeg"]
